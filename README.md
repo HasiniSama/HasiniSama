@@ -16,6 +16,6 @@ spec:
       where: https://medium.com/@hasinisama
   favorites:
     animal: 😺
-    emoji: 🫤
+    emoji: 🙄
     food: 🍕
 ```

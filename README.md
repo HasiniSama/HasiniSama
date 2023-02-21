@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```yaml
-apiVersion: v22
+apiVersion: v23
 kind: Cat
 metadata:
   name: Hasini Samarathunga
